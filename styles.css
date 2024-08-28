@@ -1,0 +1,37 @@
+*{
+  margin:0;
+  padding:0;
+  font-family: "Lora", serif;
+}
+h1,h2,h3,h4,h5,a{
+  font-family:"Ga Maamli", sans-serif;
+}
+img{
+  display:block;
+  max-width:100%;
+  margin:10px 1%;
+}
+figure{
+  display:flex;
+  justify-content:center;
+  flex-wrap:wrap;
+}
+#title, #description , section{
+  margin:0;
+  padding:10px;
+  background-color:#E1EBE7;
+}
+#title, #description,#headbio{
+  text-align:center;
+}
+#img-caption, #line-live{
+  margin: 20px 10vw;
+  border-bottom:2px dashed black;
+  padding-bottom:10px;
+}
+#info{
+  margin-top:20px;
+}
+#headbio{
+  margin-top:25px;
+}
