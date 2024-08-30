@@ -1,5 +1,5 @@
 # TributePage
-<img src="https://github.com/OleksandrHub/SurveyForm/blob/main/pr-1.PNG?raw=true" alt="project screen" width="60%" align="center">
+<img src="https://github.com/OleksandrHub/TributePage/blob/main/pr-2.PNG?raw=true" alt="project screen" width="60%" align="center">
 **Description for the second site (Steve Jobs Tribute):**
 
 **Project:** Steve Jobs memorial site.
